@@ -1,3 +1,4 @@
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleLucasG&layout=compact)](https://github.com/AleLucasG/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleLucasG&show_icons=true&theme=synthwave)
 
@@ -52,4 +53,4 @@ _____________________________________________________
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandra-lucas-4b9453104/)
 [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/?nd=1)
-
+[![Outllok](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)ps://outlook.live.com/mail/0/)
