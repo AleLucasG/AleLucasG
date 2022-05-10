@@ -6,8 +6,11 @@
 ____________________________________________________________
 ###  Sobre mim
 👶🏼 Nasci em SP no ano de 1988.
-🏡 Minha residência é em Guarulhos - SP.
-👩‍🎓 Estudante do curso superior em Análise e Desenvolvimeto de Sistema.
+
+🏡 Minha residência é em Guarulhos - SP
+
+👩‍🎓 Estudante do curso superior em Análise e Desenvolvimeto de Sistema
+
 Apaixonada por música, pets, plantas, natureza e novos conhecimentos.
 
 <div style="display: inline_block"><br/>
