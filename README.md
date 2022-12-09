@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br/>
 
 
-### 👋 Olá, me chamo Alessandra Lucas, mas podemos me chamar de Ale 
+### 👋 Olá, me chamo Alessandra Lucas, mas pode me chamar de Ale 
 ____________________________________________________________
 
 ###  Sobre mim
