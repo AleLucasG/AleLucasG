@@ -44,6 +44,7 @@ ____________________________________________________________
     <img align="center" alr="python" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
+    <img align="center" alr="python" src= https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
 <div style="display: inline_block"><br/>
  
 ###  📚 Tecnologias que tenho interesse em aprender:
@@ -63,4 +64,5 @@ _____________________________________________________
 [![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandra-lucas-4b9453104/)
 [![ Spotfy ](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/?nd=1)
 [![ Outllok ](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
+[![ Duolingo ](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/AleLucasG)
 <div style="display: inline_block"><br/>
