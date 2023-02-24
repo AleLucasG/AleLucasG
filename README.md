@@ -44,7 +44,9 @@ ____________________________________________________________
     <img align="center" alr="python" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
-    <img align="center" alr="python" src= https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
+    <img align="center" alr="python" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
+    <img align="center" alr="python" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
+  
 <div style="display: inline_block"><br/>
  
 ###  📚 Tecnologias que tenho interesse em aprender:
