@@ -21,7 +21,7 @@ ____________________________________________________________
 
 👩‍🎓 Cursando Superior em Análise e Desenvolvimeto de Sistemas.
 
-🥰 Apaixonada pela minha fammília, música, pets, plantas, natureza e novos conhecimentos.
+🥰 Apaixonada pela minha família, música, pets, plantas, natureza e novos conhecimentos.
 
 <div style="display: inline_block"><br/>
 
