@@ -31,7 +31,8 @@ ____________________________________________________________
 
 Iniciei os meus estudos em 2018 na plataforma do Curso em Vídeo do Prof. Gustavo Guanabara no curso de Lógica de Programação. Após isso, fiz o curso de Java Básico e fiz várias pesquisas sobre a area de programação.
 Em 06/2021, iniciei o 1° sem. do curso superior em Análise e Desenvolvimento de Sistemas, do qual será concluído em 07/2023.
-Além da faculdade, venho fazendo cursos para adiquir mais conhecimentos e em 03/2022 tive a primeira oportunidade de trabalhar com Desenvolvedora Jr com a linguagem C# e Banco de Dados.
+Além da faculdade, estou sempre aprendendo com novos cursos para adiquir mais conhecimentos.
+Em 03/2022 tive a primeira oportunidade de trabalhar como Desenvolvedora Jr Back-End Desktop, com a linguagem de programação em C# e Banco de Dados Relacionais.
 
 Estou construindo minha carreira profissional em Desenvolvimento de Software, como base as minhas habilidades de analise, organização, prazos, trabalho em equipe, comunicação e capacidade analítica e de resolução de problemas que foram adquiridas em experencias prévias da multidisciplinaridade de outras áreas. 🧑🏻💻🚀
 
