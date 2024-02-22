@@ -29,10 +29,15 @@ ____________________________________________________________
 ____________________________________________________________
 <div style="display: inline_block"><br/>
 
-Iniciei os meus estudos em 2018 na plataforma do Curso em Vídeo do Prof. Gustavo Guanabara no curso de Lógica de Programação. Após isso, fiz o curso de Java Básico e fiz várias pesquisas sobre a area de programação.
-Em 06/2021, iniciei o 1° sem. do curso superior em Análise e Desenvolvimento de Sistemas, do qual será concluído em 07/2023.
-Além da faculdade, estou sempre aprendendo com novos cursos para adiquir mais conhecimentos.
-Em 03/2022 tive a primeira oportunidade de trabalhar como Desenvolvedora Jr Back-End Desktop, com a linguagem de programação em C# e Banco de Dados Relacionais.
+Meu mergulho no universo da programação começou em meados de 2018, quando decidi explorar os fundamentos da Lógica de Programação para descobrir se esse mundo me atrairia. Para minha surpresa, ao término do curso, descobri que não só gostei, mas me encantei com o desafio (risos).
+
+Desde então, embarquei em uma jornada de aprendizado constante, explorando diversas tecnologias, desde Java POO e Python até Git e GitHub, além de metodologias como Scrum e bancos de dados como MySql. Cada nova descoberta me alimentava e aumentava minha paixão pela área de Desenvolvimento de Sistemas.
+
+Em junho de 2021, dei mais um passo nessa jornada ao iniciar o primeiro semestre do curso superior em Análise e Desenvolvimento de Sistemas na modalidade EAD. Foi uma oportunidade incrível de aprofundar meus conhecimentos e me conectar com uma comunidade de aprendizes apaixonados por tecnologia.
+
+E então, em março de 2022, surgiu minha primeira grande chance profissional como Desenvolvedora Jr Back-End Desktop. Nesse papel, pude mergulhar de cabeça no desenvolvimento com a linguagem C# e explorar os desafios emocionantes dos bancos de dados relacionais.
+
+Cada passo nessa jornada tem sido uma aventura emocionante, e mal posso esperar para ver o que o futuro reserva enquanto continuo a me aprimorar e a explorar novos horizontes no vasto mundo da programação.
 
 Estou construindo minha carreira profissional em Desenvolvimento de Software, como base as minhas habilidades de analise, organização, prazos, trabalho em equipe, comunicação e capacidade analítica e de resolução de problemas que foram adquiridas em experencias prévias da multidisciplinaridade de outras áreas. 🧑🏻💻🚀
 
