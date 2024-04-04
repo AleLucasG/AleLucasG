@@ -9,6 +9,15 @@
 <div style="display: inline_block"><br/>
 
 
+<div 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
 ### 👋 Olá, me chamo Alessandra Lucas, mas pode me chamar de Ale 
 ____________________________________________________________
 
@@ -80,10 +89,4 @@ _____________________________________________________
 <div style="display: inline_block"><br/>
 
 
-<div 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AleLucasG/AleLucasG/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+
