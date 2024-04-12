@@ -66,6 +66,7 @@ ____________________________________________________________
     <img align="center" alr="python" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
+    <img align="center" alr="moword" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
   
 <div style="display: inline_block"><br/>
  
