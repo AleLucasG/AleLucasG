@@ -65,9 +65,15 @@ ____________________________________________________________
     <img align="center" alr="PostgreSQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
     <img align="center" alr="Oracle" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
     <img align="center" alr="Visual_Studio" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
+    <img align="center" alr="Visual_Studio_Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
     <img align="center" alr="Microsoft_Exce" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
     <img align="center" alr="Microsoft_Word" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
-  
+    <img align="center" alr="SAP" src=https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white />
+    <img align="center" alr="Azure_DevOps" src=https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white />
+    <img align="center" alr="Notepad++" src=https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black />
+    <img align="center" alr="Trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white />
+    <img align="center" alr="Jira" src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
+    
 <div style="display: inline_block"><br/>
  
 ###  📚 Tecnologias que tenho interesse em aprender:
