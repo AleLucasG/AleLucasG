@@ -57,16 +57,16 @@ Estou construindo minha carreira profissional em Desenvolvimento de Software, co
 ____________________________________________________________
   
 <div style="display: inline_block"><br/>
-    <img align="center" alr="python" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
-    <img align="center" alr="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alr="python" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+    <img align="center" alr="GitHub" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
+    <img align="center" alr="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alr="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
     <img align="center" alr="python" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white ><br/>
-    <img align="center" alr="moword" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
+    <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
+    <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
   
 <div style="display: inline_block"><br/>
  
