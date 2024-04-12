@@ -60,23 +60,23 @@ ____________________________________________________________
     <img align="center" alr="GitHub" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
     <img align="center" alr="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alr="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
+    <img align="center" alr="CSharp" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
+    <img align="center" alr=".NET" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
+    <img align="center" alr="PostgreSQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
+    <img align="center" alr="Oracle" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
+    <img align="center" alr="Visual_Studio" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
+    <img align="center" alr="Microsoft_Exce" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
+    <img align="center" alr="Microsoft_Word" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
   
 <div style="display: inline_block"><br/>
  
 ###  📚 Tecnologias que tenho interesse em aprender:
 ______________________________________________________________
 <div style="display: inline_block"><br/>
-    <img align="center" alr="python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alr="python" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-    <img align="center" alr="python" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+    <img align="center" alr="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alr="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
+    <img align="center" alr="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
+    <img align="center" alr="JavaScript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
     
 <div style="display: inline_block"><br/>
 
