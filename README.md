@@ -53,7 +53,7 @@ Estou construindo minha carreira profissional em Desenvolvimento de Software, co
 "O sucesso de um profissional está diretamente ligado ao prazer de praticar o seu conhecimento." 🤓🚀
 <div style="display: inline_block"><br/>
 
-###  🛠 Tecnologias que tenho conhecimento:
+###  🛠 Tecnologias e Ferramentas que tenho conhecimento:
 ____________________________________________________________
   
 <div style="display: inline_block"><br/>
