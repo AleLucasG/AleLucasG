@@ -18,7 +18,7 @@
 <br><br>
 
 
-### 👋 Olá, me chamo Alessandra Lucas, mas pode me chamar de Ale 
+### 👋 Olá, msou a Alessandra Lucas, mas pode me chamar de Ale 
 ____________________________________________________________
 
 ###  Sobre mim
@@ -28,9 +28,9 @@ ____________________________________________________________
 
 🏡 Resido em Guarulhos - SP.
 
-👩‍🎓 Cursando Superior em Análise e Desenvolvimeto de Sistemas.
+👩‍🎓 Sou Bacharela no curso superior em Administração e Tecnóloga em Análise e Desenvolvimeto de Sistemas.
 
-🥰 Apaixonada pela minha família, música, pets, plantas, natureza e novos conhecimentos.
+🥰 Apaixonada pela minha família, música, pets, plantas, natureza e novos conhecimentos. Sou como uma gato 🐱, curiosa e querendo saber das coisas o tempo todo.
 
 <div style="display: inline_block"><br/>
 
@@ -44,22 +44,21 @@ Desde então, embarquei em uma jornada de aprendizado constante, explorando dive
 
 Em junho de 2021, dei mais um passo nessa jornada ao iniciar o primeiro semestre do curso superior em Análise e Desenvolvimento de Sistemas na modalidade EAD. Foi uma oportunidade incrível de aprofundar meus conhecimentos e me conectar com uma comunidade de aprendizes apaixonados por tecnologia.
 
-E então, em março de 2022, surgiu minha primeira grande chance profissional como Desenvolvedora Jr Back-End Desktop. Nesse papel, pude mergulhar de cabeça no desenvolvimento com a linguagem C# e explorar os desafios emocionantes dos bancos de dados relacionais.
+E então, em março de 2022, surgiu minha primeira grande chance profissional como Desenvolvedora Back-End. Desde então, pude mergulhar de cabeça no desenvolvimento de softwares com tecnologias do ecossistema .NET, C#, .NET Framework, e trabalhar com banco de dados relacionais.
 
-Cada passo nessa jornada tem sido uma aventura emocionante, e mal posso esperar para ver o que o futuro reserva enquanto continuo a me aprimorar e a explorar novos horizontes no vasto mundo da programação.
+Meu objetivo é criar e desenvolver aplicações intuitivas e de fácil compreensão para facilitar nas rotinas do dia a dia. Sempre construindo aplicações organizadas, bem estruturas, código limpo.
 
 Estou construindo minha carreira profissional em Desenvolvimento de Software, como base as minhas habilidades de analise, organização, prazos, trabalho em equipe, comunicação e capacidade analítica e de resolução de problemas que foram adquiridas em experencias prévias da multidisciplinaridade de outras áreas. 🧑🏻💻🚀
 
 "O sucesso de um profissional está diretamente ligado ao prazer de praticar o seu conhecimento." 🤓🚀
 <div style="display: inline_block"><br/>
 
-###  🛠 Tecnologias e Ferramentas que tenho conhecimento:
-____________________________________________________________
-  
+
+### 🚀  Tecnologias que tenho experiência:
+______________________________________________________________
+
 <div style="display: inline_block"><br/>
-    <img align="center" alr="GitHub" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
-    <img align="center" alr="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alr="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+    <img align="center" altr="GitHub" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
     <img align="center" alr="CSharp" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
     <img align="center" alr=".NET" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
     <img align="center" alr="PostgreSQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
@@ -72,8 +71,21 @@ ____________________________________________________________
     <img align="center" alr="Azure_DevOps" src=https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white />
     <img align="center" alr="Notepad++" src=https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black />
     <img align="center" alr="Trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white />
+    <img align="center" alt="PowerBI" src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white />
     <img align="center" alr="Jira" src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
-    
+
+<div style="display: inline_block"><br/>
+
+
+###  🧠 Tecnologias e Ferramentas que tenho conhecimento:
+____________________________________________________________
+  
+<div style="display: inline_block"><br/>
+    <img align="center" alr="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
+    <img align="center" alr="Visual_Studio_Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
+    <img align="center" alr="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+    <img align="center" alr="Azure_DevOps" src=https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white />
+
 <div style="display: inline_block"><br/>
  
 ###  📚 Tecnologias que tenho interesse em aprender:
