@@ -18,7 +18,7 @@
 <br><br>
 
 
-### 👋 Olá, msou a Alessandra Lucas, mas pode me chamar de Ale 
+### 👋 Olá, sou a Alessandra Lucas, mas pode me chamar de Ale 
 ____________________________________________________________
 
 ###  Sobre mim
