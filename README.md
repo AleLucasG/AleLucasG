@@ -23,7 +23,7 @@
 Sou uma profissional dedicada, natural de São Paulo e residente em Guarulhos. Minha formação inclui um bacharelado em Administração e uma graduação tecnológica em Análise e Desenvolvimento de Sistemas.
 <div style="display: inline_block"><br/>
 
-### 🚀 **Minha Jornada na Tecnologia ** 
+### 🚀 Minha Jornada na Tecnologia 
 <div style="display: inline_block"><br/>
 Minha relação com a tecnologia começou em 2018, quando decidi explorar os fundamentos da lógica de programação. 
   
@@ -36,7 +36,7 @@ Em junho de 2021, iniciarei o curso superior em Análise e Desenvolvimento de Si
 Em março de 2022, conquistei minha primeira oportunidade como Desenvolvedora Back-End, visitando com tecnologias do ecossistema .NET, como C# e .NET Framework, além de bancos de dados relacionais.
 <div style="display: inline_block"><br/>
 
-### 🎯 Objetivo Profissional ** 
+### 🎯 Objetivo Profissional
 <div style="display: inline_block"><br/>
 Meu foco é desenvolver aplicações organizadas, intuitivas e de fácil compreensão, com atenção à clara, estrutura e utilidade. Gosto de criar soluções que façam sentido e realmente ajudem no dia a dia de quem usa.
 
