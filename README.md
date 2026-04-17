@@ -18,71 +18,55 @@
 <br><br>
 
 
-### 👋 Olá, sou a Alessandra Lucas, mas pode me chamar de Ale 
-<div style="display: inline_block"><br/>
-Sou uma profissional dedicada, natural de São Paulo e residente em Guarulhos. Minha formação inclui um bacharelado em Administração e uma graduação tecnológica em Análise e Desenvolvimento de Sistemas.
-<div style="display: inline_block"><br/>
+# 🚀 Olá, eu sou a Ale
 
-### 🚀 Minha Jornada na Tecnologia 
-<div style="display: inline_block"><br/>
-Minha relação com a tecnologia começou em 2018, quando decidi explorar os fundamentos da lógica de programação. 
-  
-Desde então, comecei uma jornada constante de aprendizado, estudando linguagens como Java POO e Python, ferramentas como Git e GitHub, metodologias como Scrum e bancos de dados como MySQL.
+Sou profissional de tecnologia com foco em **dados, automação e análise**, atuando na construção de soluções que integram sistemas e transformam dados em informação para o negócio.
 
-Sempre me interessei por soluções que tornem o dia a dia mais prático e eficiente — foi justamente essa capacidade da tecnologia de transformar rotinas que despertou meu interesse pela área e me motivou a me seguir desenvolvendo.
+Minha experiência combina desenvolvimento com visão analítica, permitindo criar soluções eficientes, escaláveis e orientadas a resultados.
 
-Em junho de 2021, iniciarei o curso superior em Análise e Desenvolvimento de Sistemas (EAD), aprofundando meus conhecimentos e me conectando com uma comunidade de pessoas que unem o mesmo objetivo de evolução contínua.
+---
 
-Em março de 2022, conquistei minha primeira oportunidade como Desenvolvedora Back-End, visitando com tecnologias do ecossistema .NET, como C# e .NET Framework, além de bancos de dados relacionais.
-<div style="display: inline_block"><br/>
+## 💡 O que eu faço hoje
 
-### 🎯 Objetivo Profissional
-<div style="display: inline_block"><br/>
-Meu foco é desenvolver aplicações organizadas, intuitivas e de fácil compreensão, com atenção à clara, estrutura e utilidade. Gosto de criar soluções que façam sentido e realmente ajudem no dia a dia de quem usa.
+🔹 Manipulação e análise de dados com **SQL, Oracle e PostgreSQL**  
+🔹 Desenvolvimento de rotinas **ETL** e integração de dados  
+🔹 Automação de processos com **C# (.NET)**  
+🔹 Otimização de queries e performance de dados  
+🔹 Apoio à tomada de decisão com base em dados  
 
-Trabalho bem em equipe, sou comprometida com prazos e qualidade, e trago comigo habilidades interpessoais e de organização adquiridas em experiências anteriores em outras áreas — que hoje complementam minha atuação em desenvolvimento.
+---
+
+## 📊 Foco atual
+
+Atualmente, estou direcionando minha carreira para **Data Analytics**, aprofundando conhecimentos em:
+
+🔹 Power BI  
+🔹 Python para análise de dados  
+🔹 Modelagem e qualidade de dados
+🔹 SQL
+
+---
+
+## 🧠 Sobre mim
+
+Tenho perfil analítico, organização e facilidade em entender problemas de negócio.  
+Gosto de trabalhar com dados, otimizar processos e criar soluções que realmente fazem diferença no dia a dia.
 
 "O sucesso de um profissional está diretamente ligado ao prazer de praticar o seu conhecimento." 🤓🚀
 <div style="display: inline_block"><br/>
 
-### 🚀  Tecnologias que tenho experiência:
-<div style="display: inline_block"><br/>
-    <img align="center" altr="GitHub" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
-    <img align="center" alr="CSharp" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
-    <img align="center" alr=".NET" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
-    <img align="center" alr="PostgreSQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
-    <img align="center" alr="Oracle" src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />
-    <img align="center" alr="Visual_Studio" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
-    <img align="center" alr="Visual_Studio_Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
-    <img align="center" alr="Microsoft_Exce" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
-    <img align="center" alr="Microsoft_Word" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />
-    <img align="center" alr="SAP" src=https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white />
-    <img align="center" alr="Azure_DevOps" src=https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white />
-    <img align="center" alr="Notepad++" src=https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black />
-    <img align="center" alr="Trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white />
-    <img align="center" alt="PowerBI" src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white />
-    <img align="center" alr="Jira" src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
-<div style="display: inline_block"><br/>
 
-###  🧠 Tecnologias e Ferramentas que tenho conhecimento:
-<div style="display: inline_block"><br/>
-    <img align="center" alr="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-    <img align="center" alr="Visual_Studio_Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
-    <img align="center" alr="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-    <img align="center" alr="Azure_DevOps" src=https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white />
-<div style="display: inline_block"><br/>
- 
-###  📚 Tecnologias que tenho interesse em aprender:
-<div style="display: inline_block"><br/>
-    <img align="center" alr="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alr="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
-    <img align="center" alr="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-    <img align="center" alr="JavaScript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
-    <img align="center" alr="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<div style="display: inline_block"><br/>
+
+## 🚀 Tecnologias
+
+🔹 SQL | Oracle | PostgreSQL  
+🔹 Power BI  
+🔹 Python (em evolução)  
+🔹 C# | .NET  
+🔹 ETL | Modelagem de Dados  
+🔹 Excel  
+
+
 
 ###  🔎 Minhas redes sociais:
 <div style="display: inline_block"><br/>
